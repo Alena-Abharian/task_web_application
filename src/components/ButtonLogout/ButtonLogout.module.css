@@ -1,0 +1,14 @@
+.btn {
+    color: #adadad;
+    background-color: inherit;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 40px;
+    right: 40px;
+}
+
+.btn:focus,
+.btn:hover {
+    color: #FFFFFF;
+}

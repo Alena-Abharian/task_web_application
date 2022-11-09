@@ -1,0 +1,14 @@
+.list {
+    padding-left: 24px;
+}
+
+.item {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.item:not(:first-child) {
+    margin-top: 16px;
+}

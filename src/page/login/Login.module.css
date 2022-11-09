@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 64px;
+    line-height: 80px;
+    text-align: center;
+    color: #FFFFFF;
+    margin-bottom: 35px;
+
+}
